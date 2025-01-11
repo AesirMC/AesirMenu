@@ -1,0 +1,19 @@
+#komutta / kullanmayın çalışmaz
+Komut: "give LordJashin emerald 64"
+
+
+#Material a PLAYER_HEAD yazarsanız HeadUrl YE url koymanız gerek aksi halde hata alırsınız
+Material: "PLAYER_HEAD"
+CustomModelData: 0
+Ench: false
+HeadUrl: "https://textures.minecraft.net/texture/8c76e4d31bc8ad0406f9eff1b9ee49ad876cf7073f940cac3c2a3606d6a7755d"
+name: "<yellow><i:false>Ana Menü"
+
+lore:
+ - "<gray><i:false>Bu menüyü kullanarak"
+ - "<gray><i:false>oyunun ana arayüzüne erişebilirsiniz."
+ - ""
+ - "<dark_gray><i:false>Açmak için <bold><green>Tıkla."
+
+menuerisimmesaj: "<gray>[<dark_aqua>Aesir<gray>] <green>Menü erişiminiz açıldı! /menuitem yazarak envanterinize menü alabilirsiniz. <red><bold>(9. slotunuzda bir eşyanız varsa /menuitem komudunu kullanmadan önce o eşyayı tahliye edin, aksi takdirde silinir!)"
+menukapanismesaj: "<gray>[<dark_aqua>Aesir<gray>] <red>Menü envanterinizden silindi ve oyuna giriş çıkışta envanterinizde olmayacak. Eğer menüyü tekrar aktif etmek isterseniz /menuac komudunu kullanın."

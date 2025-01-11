@@ -1,0 +1,4 @@
+name: AesirMenu
+version: '${version}'
+main: me.taylan.AesirMenu
+api-version: '1.18'
